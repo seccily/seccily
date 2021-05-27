@@ -19,9 +19,9 @@
 
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-[<img src="https://simpleicons.org/icons/linkedin.svg" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/se%C3%A7ilay-kutal-111b27154/)
-[<img src="https://simpleicons.org/icons/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow me on Twitter"/>](https://twitter.com/seccily)
-[<img src="https://simpleicons.org/icons/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow me on Instagram"/>](https://www.instagram.com/seccily_/)
+[<img src="https://simpleicons.org/icons/linkedin.svg" height="40em" align="center" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/se%C3%A7ilay-kutal-111b27154/)&nbsp;	&nbsp;	&nbsp;
+[<img src="https://simpleicons.org/icons/twitter.svg" height="40em" align="center" title="Follow me on Twitter"/>](https://twitter.com/seccily)&nbsp;	&nbsp;	&nbsp;
+[<img src="https://simpleicons.org/icons/instagram.svg" height="40em" align="center" title="Follow me on Instagram"/>](https://www.instagram.com/seccily_/)&nbsp;	&nbsp;	&nbsp;
 
 
 ## 💻 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜:
