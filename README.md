@@ -1,12 +1,11 @@
-<p align="center"><img src="https://xoum6.csb.app/" /></p>
+<p align="center"><img src="" /></p>
 
 
 
 
-- 👋 Hi, I’m @seccily
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 📚 I’m Mechatronics Engineer
+- 💼 I’m working at AdresGezgini as intern researcher
+- 🌱 I’m currently learning deep learning and machine learning algortihms
 - 📫 How to reach me ...
 
 <!---
