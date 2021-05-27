@@ -16,9 +16,9 @@ You can click the Preview link to take a look at your changes.
 
 ## [<img src="https://simpleicons.org/icons/medium.svg" title="Medium" width="30" height="30"/>&nbsp;]() 𝙳𝚘𝚗'𝚝 𝚏𝚘𝚛𝚐𝚎𝚝 𝚝𝚘 𝚏𝚘𝚕𝚕𝚘𝚠 𝚖𝚎 𝚘𝚗 𝙼𝚎𝚍𝚒𝚞𝚖!
 
-### 𝙼𝚢 𝙰𝚌𝚌𝚘𝚞𝚗𝚝: <a href="https://secilaykutal.medium.com/" target="_blank"> 𝚂𝚎𝚌𝚒𝚕𝚊𝚢 𝙺𝚞𝚝𝚊𝚕 </a>
+#### 𝙼𝚢 𝙰𝚌𝚌𝚘𝚞𝚗𝚝: <a href="https://secilaykutal.medium.com/" target="_blank"> 𝚂𝚎𝚌𝚒𝚕𝚊𝚢 𝙺𝚞𝚝𝚊𝚕 </a>
  
-### 𝙼𝚢 𝙿𝚞𝚋𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗: <a href="https://medium.com/deeper-deep-learning-tr" target="_blank"> 𝙳𝚎𝚎𝚙𝚎𝚛 𝙳𝚎𝚎𝚙 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚃𝚁 </a>
+#### 𝙼𝚢 𝙿𝚞𝚋𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗: <a href="https://medium.com/deeper-deep-learning-tr" target="_blank"> 𝙳𝚎𝚎𝚙𝚎𝚛 𝙳𝚎𝚎𝚙 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚃𝚁 </a>
 
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
