@@ -8,7 +8,16 @@
 - 🔎 𝙸 𝚝𝚛𝚢 𝚝𝚘 𝚜𝚑𝚊𝚛𝚎 𝚖𝚢 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚘𝚗 𝙼𝚎𝚍𝚒𝚞𝚖
 
 ✉ **𝙸𝚏 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚊𝚜𝚔 something 𝚍𝚘𝚗'𝚝 𝚋𝚎 𝚜𝚑𝚢, ask me anything** ➩ secilaykutal99@gmail.com
+
+
+## 📫 Don't forget to follow me on Medium!
+
+### My Account:
+<p align="left"> <a href="https://secilaykutal.medium.com/" target="_blank"> <img src="https://simpleicons.org/icons/medium.svg" alt="Secilay Kutal" width="40" height="40"/></p>
  
+### My Publication:
+<p align="left"> <a href="https://medium.com/deeper-deep-learning-tr" target="_blank"> <img src="https://simpleicons.org/icons/medium.svg" alt="Deeper Deep Learning TR" width="40" height="40"/></p>
+
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/se%C3%A7ilay-kutal-111b27154/)
@@ -19,6 +28,19 @@
 ## 💻 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜:
 
 
+<p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40"/>
+ <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://simpleicons.org/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40"/> 
+ <a href="https://pytorch.org/" target="_blank"> <img src="https://simpleicons.org/icons/pytorch.svg" alt="Pytorch" width="40" height="40"/> 
+ <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://simpleicons.org/icons/scikit-learn.svg" alt="Scikit Learn" width="40" height="40"/> 
+ <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://simpleicons.org/icons/c.svg" alt="C" width="40" height="40"/> 
+ <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" width="40" height="40"/> 
+ <a href="https://www.javascript.com/" target="_blank"> <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="40" height="40"/> 
+ <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://simpleicons.org/icons/html5.svg" alt="HTML" width="40" height="40"/> 
+ <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://simpleicons.org/icons/css3.svg" alt="CSS" width="40" height="40"/> 
+</p>
+
+ 
+ 
 
 <!---
 seccily/seccily is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
