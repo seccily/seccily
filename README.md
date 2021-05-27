@@ -27,7 +27,7 @@
 
 ## 💻 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜:
 
-<p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40"/>	&nbsp;
+<p align="left"> <a href="https://www.python.org/" target="_blank"> <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40"/>	&nbsp;	&nbsp;	&nbsp;
  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://simpleicons.org/icons/tensorflow.svg" alt="TensorFlow" width="40" height="40"/> 
  <a href="https://pytorch.org/" target="_blank"> <img src="https://simpleicons.org/icons/pytorch.svg" alt="Pytorch" width="40" height="40"/> 
  <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://simpleicons.org/icons/scikit-learn.svg" alt="Scikit Learn" width="40" height="40"/> 
