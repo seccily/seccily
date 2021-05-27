@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ✉ **𝙸𝚏 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚊𝚜𝚔 something 𝚍𝚘𝚗'𝚝 𝚋𝚎 𝚜𝚑𝚢, ask me anything** ➩ secilaykutal99@gmail.com
 
 https://simpleicons.org/icons/medium.svg
-## [<img src="https://simpleicons.org/icons/medium.svg" title="Medium" width="10" height="10"/>&nbsp;	&nbsp;	&nbsp;]() 𝙳𝚘𝚗'𝚝 𝚏𝚘𝚛𝚐𝚎𝚝 𝚝𝚘 𝚏𝚘𝚕𝚕𝚘𝚠 𝚖𝚎 𝚘𝚗 𝙼𝚎𝚍𝚒𝚞𝚖!
+## [<img src="https://simpleicons.org/icons/medium.svg" title="Medium" width="30" height="30"/>]() 𝙳𝚘𝚗'𝚝 𝚏𝚘𝚛𝚐𝚎𝚝 𝚝𝚘 𝚏𝚘𝚕𝚕𝚘𝚠 𝚖𝚎 𝚘𝚗 𝙼𝚎𝚍𝚒𝚞𝚖!
 
 ### 𝙼𝚢 𝙰𝚌𝚌𝚘𝚞𝚗𝚝: <a href="https://secilaykutal.medium.com/" target="_blank"> 𝚂𝚎𝚌𝚒𝚕𝚊𝚢 𝙺𝚞𝚝𝚊𝚕 </a>
  
