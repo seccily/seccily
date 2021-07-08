@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - 🔎 𝙸'm 𝚝𝚛𝚢ing 𝚝𝚘 𝚜𝚑𝚊𝚛𝚎 𝚖𝚢 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚘𝚗 𝙼𝚎𝚍𝚒𝚞𝚖
 <p>&nbsp;</p>
 
-✉ **IF you want to 𝚊𝚜𝚔 something 𝚍𝚘𝚗'𝚝 𝚋𝚎 𝚜𝚑𝚢, ask me anything** ➩ secilaykutal99@gmail.com
+✉ **If you want to 𝚊𝚜𝚔 something 𝚍𝚘𝚗'𝚝 𝚋𝚎 𝚜𝚑𝚢, ask me anything** ➩ secilaykutal99@gmail.com
 <p>&nbsp;</p>
 
 ## [<img src="https://simpleicons.org/icons/medium.svg" title="Medium" width="30" height="30"/>&nbsp;]() 𝙳𝚘𝚗'𝚝 𝚏𝚘𝚛𝚐𝚎𝚝 𝚝𝚘 𝚏𝚘𝚕𝚕𝚘𝚠 𝚖𝚎 𝚘𝚗 𝙼𝚎𝚍𝚒𝚞𝚖!
