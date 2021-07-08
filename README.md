@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 - 🔎 𝙸'm 𝚝𝚛𝚢ing 𝚝𝚘 𝚜𝚑𝚊𝚛𝚎 𝚖𝚢 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚘𝚗 𝙼𝚎𝚍𝚒𝚞𝚖
 <p>&nbsp;</p>
 
-✉ **𝙸𝚏 𝚢𝚘𝚞 𝚠𝚊𝚗𝚝 𝚝𝚘 𝚊𝚜𝚔 something 𝚍𝚘𝚗'𝚝 𝚋𝚎 𝚜𝚑𝚢, ask me anything** ➩ secilaykutal99@gmail.com
+✉ **IF you want to 𝚊𝚜𝚔 something 𝚍𝚘𝚗'𝚝 𝚋𝚎 𝚜𝚑𝚢, ask me anything** ➩ secilaykutal99@gmail.com
 <p>&nbsp;</p>
 
 ## [<img src="https://simpleicons.org/icons/medium.svg" title="Medium" width="30" height="30"/>&nbsp;]() 𝙳𝚘𝚗'𝚝 𝚏𝚘𝚛𝚐𝚎𝚝 𝚝𝚘 𝚏𝚘𝚕𝚕𝚘𝚠 𝚖𝚎 𝚘𝚗 𝙼𝚎𝚍𝚒𝚞𝚖!
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 [<img src="https://simpleicons.org/icons/python.svg" title="Python" width="40" height="40"/>&nbsp;	&nbsp;	&nbsp;](https://www.python.org/)
 [<img src="https://simpleicons.org/icons/tensorflow.svg" title="TensorFlow" width="40" height="40"/> &nbsp;	&nbsp;	&nbsp;](https://www.tensorflow.org/)
 [<img src="https://simpleicons.org/icons/pytorch.svg" title="Pytorch" width="40" height="40"/>&nbsp; &nbsp; &nbsp;](https://pytorch.org/)
-[<img src="https://simpleicons.org/icons/scikit-learn.svg" title="Scikit Learn" width="40" height="40"/>&nbsp;&nbsp;&nbsp;](https://scikit-learn.org/stable/)
+[<img src="https://simpleicons.org/icons/scikitlearn.svg" title="Scikit Learn" width="40" height="40"/>&nbsp;&nbsp;&nbsp;](https://scikit-learn.org/stable/)
 [<img src="https://simpleicons.org/icons/c.svg" title="C" width="40" height="40"/></a> &nbsp;	&nbsp;	&nbsp;]()
 [<img src="https://simpleicons.org/icons/cplusplus.svg" title="C++" width="40" height="40"/>&nbsp;	&nbsp;	&nbsp;](https://www.cplusplus.com/)
 [<img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" width="40" height="40"/>&nbsp;	&nbsp;	&nbsp;](https://www.javascript.com/)
