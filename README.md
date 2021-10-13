@@ -35,6 +35,7 @@ You can click the Preview link to take a look at your changes.
 [<img src="https://simpleicons.org/icons/tensorflow.svg" title="TensorFlow" width="40" height="40"/> &nbsp;	&nbsp;	&nbsp;](https://www.tensorflow.org/)
 [<img src="https://simpleicons.org/icons/pytorch.svg" title="Pytorch" width="40" height="40"/>&nbsp; &nbsp; &nbsp;](https://pytorch.org/)
 [<img src="https://simpleicons.org/icons/scikitlearn.svg" title="Scikit Learn" width="40" height="40"/>&nbsp;&nbsp;&nbsp;](https://scikit-learn.org/stable/)
+[<img src="https://simpleicons.org/icons/nltk.svg" title="NLTK" width="40" height="40"/> &nbsp;	&nbsp;	&nbsp;](https://www.nltk.org/)
 [<img src="https://simpleicons.org/icons/c.svg" title="C" width="40" height="40"/></a> &nbsp;	&nbsp;	&nbsp;]()
 [<img src="https://simpleicons.org/icons/cplusplus.svg" title="C++" width="40" height="40"/>&nbsp;	&nbsp;	&nbsp;](https://www.cplusplus.com/)
 [<img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" width="40" height="40"/>&nbsp;	&nbsp;	&nbsp;](https://www.javascript.com/)
