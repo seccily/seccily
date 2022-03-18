@@ -10,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 - 📚 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎𝚍 𝚏𝚛𝚘𝚖 𝙼𝚊𝚛𝚖𝚊𝚛𝚊 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢, 𝚍𝚎𝚙𝚊𝚛𝚝𝚖𝚎𝚗𝚝 𝚘𝚏 𝙼𝚎𝚌𝚑𝚊𝚝𝚛𝚘𝚗𝚒𝚌𝚜 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐
 - 💼 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕y 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚊𝚜 𝚊 𝙽𝙻𝙿 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚊𝚝 [𝙰𝚛𝚎𝚊𝚕.𝚊𝚒](https://areal.ai/)
 - 🌱 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚍𝚎𝚎𝚙 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚗𝚍 𝚖𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚕𝚐𝚘𝚛𝚝𝚒𝚑𝚖𝚜 
-- 🔎 𝚝𝚛𝚢𝚒𝚗𝚐 𝚝𝚘 𝚜𝚑𝚊𝚛𝚎 𝚔𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 𝚘𝚗 [𝙼𝚎𝚍𝚒𝚞𝚖](https://secilaykutal.medium.com/)
 <p>&nbsp;</p>
 
 ✉ **If you want to ask something don't be shy, ask me anything** ➩ secilaykutal99@gmail.com
