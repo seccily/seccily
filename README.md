@@ -7,10 +7,10 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;</p>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 m𝚎:
-- 📚 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚎𝚍 𝚏𝚛𝚘𝚖 𝙼𝚊𝚛𝚖𝚊𝚛𝚊 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢, 𝚍𝚎𝚙𝚊𝚛𝚝𝚖𝚎𝚗𝚝 𝚘𝚏 𝙼𝚎𝚌𝚑𝚊𝚝𝚛𝚘𝚗𝚒𝚌𝚜 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛𝚒𝚗𝚐
-- 💼 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕y 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚊𝚜 𝚊 𝙽𝙻𝙿 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚊𝚝 [𝙰𝚛𝚎𝚊𝚕.𝚊𝚒](https://areal.ai/)
-- 🎒 master's  student at [Sabanci University](https://www.sabanciuniv.edu/en)
-- 🌱 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚍𝚎𝚎𝚙 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚗𝚍 𝚖𝚊𝚌𝚑𝚒𝚗𝚎 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚊𝚕𝚐𝚘𝚛𝚝𝚒𝚑𝚖𝚜 
+- 📚 graduated from Marmara University, Mecahtronics Engineering department
+- 💼 working as a NLP Engineer at [AREAL.ai](https://areal.ai/) 
+- 🎒 computer science master student at [Sabanci University](https://www.sabanciuniv.edu/en)
+- 🌱 learning deep learning and machine learning algorithms 
 <p>&nbsp;</p>
 
 ✉ **If you want to ask something don't be shy, ask me anything** ➩ secilaykutal99@gmail.com
