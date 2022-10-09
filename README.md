@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;</p>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 m𝚎:
-- 📚 graduated from Marmara University, Mecahtronics Engineering department
+- 📚 graduated from [Marmara University](https://www.marmara.edu.tr/en), Mecahtronics Engineering department
 - 💼 working as a NLP Engineer at [AREAL.ai](https://areal.ai/) 
 - 🎒 computer science master student at [Sabanci University](https://www.sabanciuniv.edu/en)
 - 🌱 learning deep learning and machine learning algorithms 
