@@ -25,8 +25,7 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;</p>
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-[<img src="https://images.icon-icons.com/2428/PNG/512/linkedin_black_logo_icon_147114.png" height="40em" align="center" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/secilaykutal/)&nbsp;	&nbsp;	&nbsp;
-[<img src="https://simpleicons.org/icons/x.svg" height="40em" align="center" title="Follow me on Twitter"/>](https://twitter.com/seccily)
+[<img src="https://images.icon-icons.com/2428/PNG/512/linkedin_black_logo_icon_147114.png" height="40em" align="center" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/secilaykutal/)
 <p>&nbsp;</p>
 
 ## 💻 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜:
