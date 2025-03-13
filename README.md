@@ -9,8 +9,8 @@ You can click the Preview link to take a look at your changes.
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 m𝚎:
 - 📚 graduated from [Marmara University](https://www.marmara.edu.tr/en), Mecahtronics Engineering department
-- 💼 working as a NLP Engineer at [AREAL.ai](https://areal.ai/) 
-- 🎒 computer science master student at [Sabanci University](https://www.sabanciuniv.edu/en)
+- 💼 working as a Data Scientist at [Accenture IX](https://www.accenture.com/ch-en/careers/explore-careers/area-of-interest/turkey-careers) 
+- 🎒 computer science and engineering master student at [Sabanci University](https://www.sabanciuniv.edu/en)
 - 🌱 learning deep learning and machine learning algorithms 
 <p>&nbsp;</p>
 
