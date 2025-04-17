@@ -43,6 +43,7 @@ You can click the Preview link to take a look at your changes.
 [<img src="https://simpleicons.org/icons/amazonwebservices.svg" title="AWS" width="40" height="40"/>](https://opencv.org/)&nbsp;&nbsp;&nbsp;
 [<img src="https://simpleicons.org/icons/googlecloud.svg" title="GCP" width="40" height="40"/>](https://opencv.org/)&nbsp;&nbsp;&nbsp;
 [<img src="https://simpleicons.org/icons/docker.svg" title="Docker" width="40" height="40"/>](https://opencv.org/)&nbsp;&nbsp;&nbsp;
+[<img src="https://simpleicons.org/icons/huggingface.svg" title="Hugging Face" width="40" height="40"/>](https://opencv.org/)&nbsp;&nbsp;&nbsp;
 [<img src="https://simpleicons.org/icons/c.svg" title="C" width="40" height="40"/></a>]()&nbsp;	&nbsp;	&nbsp;
 [<img src="https://simpleicons.org/icons/cplusplus.svg" title="C++" width="40" height="40"/>](https://www.cplusplus.com/)&nbsp;	&nbsp;	&nbsp;
 [<img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" width="40" height="40"/>](https://www.javascript.com/)&nbsp;	&nbsp;	&nbsp;
