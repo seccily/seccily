@@ -24,6 +24,11 @@ You can click the Preview link to take a look at your changes.
 #### 𝙼𝚢 𝙿𝚞𝚋𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗: <a href="https://medium.com/deeper-deep-learning-tr" target="_blank"> 𝙳𝚎𝚎𝚙𝚎𝚛 𝙳𝚎𝚎𝚙 𝙻𝚎𝚊𝚛𝚗𝚒𝚗𝚐 𝚃𝚁 </a>
 <p>&nbsp;</p>
 
+## 𝙼𝚢 Kaggle Profile
+[<img src="https://simpleicons.org/icons/kaggle.svg" height="40em" align="center" title="Check out my profile"/>](https://www.kaggle.com/secilaykutal)
+<p>&nbsp;</p>
+
+
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 [<img src="https://images.icon-icons.com/2428/PNG/512/linkedin_black_logo_icon_147114.png" height="40em" align="center" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/secilaykutal/)
 <p>&nbsp;</p>
